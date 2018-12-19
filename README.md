@@ -1,1 +1,1 @@
-"# Nexus-Buddy-2_Release" 
+# Nexus Buddy 2
